@@ -7,18 +7,19 @@ ToDoPet Team ("Company") values your privacy and explains in this Privacy Policy
 
 2. Information We Collect
 We collect the following personal information:
-- Step Count Data: To provide pet growth features, we collect your step count.
+- Health Data (Step Count): We access your step count data through Google Fit (Android) and HealthKit (iOS) to provide pet growth features.
 - Photos: We access your photo library to allow you to upload a pet image.
 - Advertising ID: We collect an advertising identifier to provide personalized ads.
 
 3. Purpose of Information Use
 The collected personal information is used for the following purposes:
-- Step Count Data: To provide pet growth features.
+- Health Data (Step Count): To track your daily steps and provide pet growth features.
 - Photos: To upload user pet images.
 - Advertising ID: To provide personalized advertisements.
 
 4. Sharing Information with Third Parties
-- We share your advertising ID with Google AdMob to provide personalized ads.
+- Health Data (Step Count): Step count data is used only within the app and is not shared with any third parties.
+- Advertising ID: We share your advertising ID with Google AdMob to provide personalized ads.
 - We may share information as required by law in response to legal requests.
 
 5. Data Retention and Security
